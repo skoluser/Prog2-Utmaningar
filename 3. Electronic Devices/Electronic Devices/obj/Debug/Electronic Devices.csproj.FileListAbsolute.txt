@@ -1,0 +1,6 @@
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\bin\Debug\Electronic Devices.exe.config
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\bin\Debug\Electronic Devices.exe
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\bin\Debug\Electronic Devices.pdb
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\obj\Debug\Electronic Devices.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\obj\Debug\Electronic Devices.exe
+C:\Users\elev\Documents\GitHub\Prog2-Utmaningar\3. Electronic Devices\Electronic Devices\obj\Debug\Electronic Devices.pdb
